@@ -12,9 +12,8 @@ environment:
 dependencies:
   web: ^1.1.1
   gg_bridge_dart_side:
-    git:
-      url: https://github.com/tssuite/gg_bridge_dart_side
-      ref: bridge_publish_e2e
+    git: https://github.com/tssuite/gg_bridge_dart_side
+    version: ^1.0.2
 dev_dependencies:
   gg_console_colors: ^2.1.5
   lints: ^6.1.0
