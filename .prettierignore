@@ -15,9 +15,12 @@ CHANGELOG.md
 
 # Dart files
 **/*.dart
+pubspec.yaml
+test/goldens/**
 
 # Lockfiles
 pnpm-lock.yaml
 pubspec.lock
 
 tsconfig.json
+
