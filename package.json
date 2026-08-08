@@ -1,6 +1,6 @@
 {
   "name": "@tssuite/gg-bridge-dart-typescript",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Bridge exposing a Dart package as a JavaScript and WebAssembly module with hand-typed TypeScript declarations.",
   "keywords": [
     "dart",
