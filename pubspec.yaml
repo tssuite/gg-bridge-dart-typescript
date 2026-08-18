@@ -12,7 +12,7 @@ environment:
 dependencies:
   web: ^1.1.1
   gg_bridge_dart_side:
-    git: https://github.com/tssuite/gg_bridge_dart_side
+    git: git@github.com:tssuite/gg_bridge_dart_side.git
     version: ^1.0.4
 dev_dependencies:
   gg_console_colors: ^2.4.0

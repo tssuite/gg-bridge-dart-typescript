@@ -118,8 +118,8 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: c58a2b78e335ec73fe343a5db84355d9e89645d2
-      url: "https://github.com/tssuite/gg_bridge_dart_side"
+      resolved-ref: e7c0f37e54d8dd7ac4f8c9118334a9a75d750489
+      url: "git@github.com:tssuite/gg_bridge_dart_side.git"
     source: git
     version: "1.0.4"
   gg_capture_print:
