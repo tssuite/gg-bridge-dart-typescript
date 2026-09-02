@@ -2,4 +2,4 @@
 // Kept in sync by test/gg_bridge_dart_typescript_version.test.ts.
 
 /** The version of the `@tssuite/gg-bridge-dart-typescript` package. */
-export const ggBridgeDartTypescriptVersion = '1.0.2';
+export const ggBridgeDartTypescriptVersion = '1.0.3';
