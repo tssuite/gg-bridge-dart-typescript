@@ -134,10 +134,10 @@ packages:
     dependency: "direct dev"
     description:
       name: gg_console_colors
-      sha256: "35d4607f068e726ddbdd3e1ca2db215aa6497bd01ef72eb626c620ce58cb1888"
+      sha256: "587848a714df37ff255f18e8530b0dc7a49097c62e6692b91c70361ad4df6af2"
       url: "https://pub.dev"
     source: hosted
-    version: "2.4.0"
+    version: "2.5.0"
   gg_hash:
     dependency: transitive
     description:
@@ -150,10 +150,10 @@ packages:
     dependency: transitive
     description:
       name: gg_json
-      sha256: "8ad146167a287125173ca0116f76800b41ea0bbd6e946c16861256eba5fd3d18"
+      sha256: a6094996fcb1aa36f209060f0db1fefcd02fcd11649491763138331eb5dac253
       url: "https://pub.dev"
     source: hosted
-    version: "4.2.0"
+    version: "4.3.0"
   gg_log:
     dependency: transitive
     description:
@@ -166,10 +166,10 @@ packages:
     dependency: transitive
     description:
       name: gg_process
-      sha256: e94a32b4cbbba4e100f0eaec66083d67814ef79d6c0a3a84e11d7c5456350427
+      sha256: "0a51b2a50b134b7c287a6fe5219b84757659f42158dbfd1f957557dea61f949f"
       url: "https://pub.dev"
     source: hosted
-    version: "1.2.0"
+    version: "1.6.0"
   glob:
     dependency: transitive
     description:
@@ -182,10 +182,10 @@ packages:
     dependency: "direct dev"
     description:
       name: helix
-      sha256: "2df9e65b2d53b43d8ace85914eceeeb7f0f59350fb436e575b7bcfddda41405c"
+      sha256: "46beffb2586fff84a445d706ccf68b32b459273263bd177173045a49459d17ea"
       url: "https://pub.dev"
     source: hosted
-    version: "1.3.0"
+    version: "1.18.0"
   http_multi_server:
     dependency: transitive
     description:
@@ -483,4 +483,4 @@ packages:
     source: hosted
     version: "3.1.4"
 sdks:
-  dart: ">=3.13.0 <4.0.0"
+  dart: ">=3.14.0 <4.0.0"
